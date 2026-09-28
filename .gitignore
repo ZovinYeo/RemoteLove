@@ -1,0 +1,12 @@
+xcuserdata/
+DerivedData/
+build/
+*.xcuserstate
+.DS_Store
+node_modules/
+.env
+.env.*
+!.env.example
+*.p8
+*.p12
+*.mobileprovision
